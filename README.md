@@ -91,6 +91,6 @@ _August 2022 – September 2022_
 ---
 
 ## ⚙️ Skills  
-- **Programming Languages:** SystemVerilog, UVM, Verilog, Python, C/C++, Embedded C, TCL  
-- **Tools & Frameworks:** Questasim, Matlab, VS Code, Git  
-- **Concepts:** Digital IC Design, Functional Verification, RTL Coding, Low Power Techniques  
+- **💻 Programming Languages:** SystemVerilog, UVM, Verilog, Python, C/C++, Embedded C, TCL  
+- **🛠️ Tools & Frameworks:** Questasim, Matlab, VS Code, Git  
+- **📘 Concepts:** Digital IC Design, Functional Verification, RTL Coding, Low Power Techniques  
