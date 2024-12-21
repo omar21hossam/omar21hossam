@@ -16,6 +16,12 @@ _August 2018 – June 2023_
 
 ## Experience
 **Intern**  
+*Si-Vision Academy*  
+- Digital verification track  
+
+_November 2024 –  Currently_
+
+**Intern**  
 *Siemens EDA*  
 - Functional Verification Diploma specializing in FPGA  
 _January 2023 – April 2023_
