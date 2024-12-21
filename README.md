@@ -6,11 +6,6 @@
 
 ---
 
-## Military Status
-Currently Serving (End Date: 1 December 2024)
-
----
-
 ## Education
 **BSc. Electronics and Communication Engineering**  
 *Cairo University*  
